@@ -11,12 +11,15 @@ We have decided that the best way to communicate for this project is through Dis
 
 **GitHub Repository:**
 Link to Github Repository: https://github.com/BBadger8/Fizzy-Games
+**An alternate link will be this for now (Use this til things have changed):** https://github.com/GraAnBar/SDEV428_Fizzy-Games.git
 
 **The Game We Would Like to Make:**
 
-Adv. Simulation/Game Design Group 5(Name Pending).
-(Everyone has to agree upon this first) This will be a top-down angle 2D pixel art roguelike action game where the player explores room to room fighting enemy hordes to complete each room and earn power-ups after completing each room. After 10 rooms at max (we will just have the rooms made for the project) There will be a boss fight that tests your skills and the power-ups that you got from the previous room.
+Adv. Simulation/Game Design Group 5 "Liberandum".
+This will be a top-down angle 2D pixel art roguelike action game where the player explores room to room fighting enemy hordes to complete each room and earn power-ups after completing each room. After 10 rooms at max (we will just have the rooms made for the project) There will be a boss fight that tests your skills and the power-ups that you got from the previous room.
 
 **Game Description**
-We are on an adventure through a dungeon with our adequately prepared hero to go through the treacherous dungeon to save his wife after she was taken from their home by an even dark lord from another kingdom. The hero in this game will explore a dungeon, going through floor after floor killing monsters, and earning power-ups to help on his quest to save his wife. You as the player have to travel through each level(room) of the dungeon and gain abilities that raise your attack power, speed, and other skills that will help the hero defeat the enemies that get in his way.
-He doesn’t truly know why the dark lord has decided to take his wife but only knows after finding their home in ruin leaving a note saying that he will have to go through a trial to save her. The real reason behind it all is that the wife didn’t know how to tell her dark lord father about her marriage to the human hero, so in the best way she knew, she pretended she was taken by her dark lord father. So now the hero is on a quest to save his wife from the clutches of the Dark Lord.
+A brave knight has been quested to visit a deep, dark, dungeon to deliver a beautiful princess back to her kingdom. The princess has been taken away by an evil wizard from an unknown land who swept her away during the darkness of the night. It is said that the dungeon contains many rooms with unique obstacles as well as ancient spells and technology with untold power. The brave knight will have to use these ancient spells and technology to overcome the dangers of the dark dungeon to deliver the princess back to her kingdom.
+
+**Game Name:**
+“Liberandum” (“Rescue” in Latin)
